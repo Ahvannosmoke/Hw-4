@@ -1,0 +1,8 @@
+prefix=/home/vann/catkin_ws/install
+
+Name: vann_test
+Description: Description of vann_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
